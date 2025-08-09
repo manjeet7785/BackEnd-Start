@@ -1,3 +1,12 @@
 {
-  "type": "module"
+  "type": "module",
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
